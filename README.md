@@ -1,0 +1,35 @@
+# MBL's Thrive with AI: Skill Library
+
+Free, installable Cowork skills built by the MBL Partners team. Each one ships alongside a post on the [Thrive with AI Substack](https://mblpartners.substack.com). Download a skill, drag it into Cowork, and run it.
+
+---
+
+## How to install a skill
+
+1. Click the skill below and download the `.skill` file.
+2. Open the Claude desktop app in Cowork mode.
+3. Drag the `.skill` file into the Cowork window.
+4. Trigger it with one of the phrases in the skill's description.
+
+---
+
+## Skills
+
+| Skill | Lane | What it does | Download |
+|---|---|---|---|
+| [ai-security-posture-check](ai-security-posture-check/) | Technical | Six-dimension scored check of your AI security posture, with gaps and a 90-day action list. | [download](ai-security-posture-check/ai-security-posture-check.skill) |
+| [incident-response-runbook](incident-response-runbook/) | Technical | Builds a tailored AI data-exposure runbook with named owners and first steps for the critical 72 hours. | [download](incident-response-runbook/incident-response-runbook.skill) |
+| [prd-drafter](prd-drafter/) | Operator | Turns a problem description into a structured PRD with user stories, acceptance criteria, and pressure-test questions. | [download](prd-drafter/prd-drafter.skill) |
+
+More skills ship with each post.
+
+---
+
+## Standards
+
+Every skill in this library:
+
+- Is self-contained and works without any MBL-specific folder structure or connectors.
+- Ends with a Next Step that ladders to the correct MBL funnel (Individual OS or Enterprise Assessment).
+- Contains no em dashes, per house style.
+- Is conversational, scored where applicable, and honest in its output.
